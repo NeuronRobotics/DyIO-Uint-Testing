@@ -1,0 +1,32 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="junit.test.neuronrobotics.utilities.ByteListTest" tests="2" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="zoomtop" time="1.444145165294E9">
+  <properties/>
+  <testcase name="test" classname="junit.test.neuronrobotics.utilities.ByteListTest" time="0.043"/>
+  <testcase name="test" classname="junit.test.neuronrobotics.utilities.ByteListTest" time="0.003"/>
+  <system-out><![CDATA[Read test
+Iterator test
+Pop test
+Looped through index 0
+Read test
+Iterator test
+Pop test
+Looped through index 1
+Read test
+Iterator test
+Pop test
+Looped through index 2
+Read test
+Iterator test
+Pop test
+Looped through index 0
+Read test
+Iterator test
+Pop test
+Looped through index 1
+Read test
+Iterator test
+Pop test
+Looped through index 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,58 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="junit.test.neuronrobotics.utilities.PacketValidationTest" tests="2" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="zoomtop" time="1.44414516529E9">
+  <properties/>
+  <testcase name="packetTest" classname="junit.test.neuronrobotics.utilities.PacketValidationTest" time="0.097"/>
+  <testcase name="packetTest" classname="junit.test.neuronrobotics.utilities.PacketValidationTest" time="0.005"/>
+  <system-out><![CDATA[	Raw Packet:	03 00 00 00 00 00 00 10 00 04 17 5f 70 6e 67 a4 
+	Revision: 	3
+	MAC address: 	00:00:00:00:00:00
+	Method: 	GET
+	Direction: 	Downstream
+	RPC Namespace Index: 	0
+	Data Size: 	4
+	CRC: 		17 
+	D-CRC: 		a4 
+	RPC: 		_png
+	Data: 		
+
+03 00 00 00 00 00 00 10 00 04 17 5F 70 6E 67 A4
+	Raw Packet:	03 00 00 00 00 00 00 10 00 04 17 5f 70 6e 67 a4 
+	Revision: 	3
+	MAC address: 	00:00:00:00:00:00
+	Method: 	GET
+	Direction: 	Downstream
+	RPC Namespace Index: 	0
+	Data Size: 	4
+	CRC: 		17 
+	D-CRC: 		a4 
+	RPC: 		_png
+	Data: 		
+
+	Raw Packet:	03 00 00 00 00 00 00 10 00 04 17 5f 70 6e 67 a4 
+	Revision: 	3
+	MAC address: 	00:00:00:00:00:00
+	Method: 	GET
+	Direction: 	Downstream
+	RPC Namespace Index: 	0
+	Data Size: 	4
+	CRC: 		17 
+	D-CRC: 		a4 
+	RPC: 		_png
+	Data: 		
+
+03 00 00 00 00 00 00 10 00 04 17 5F 70 6E 67 A4
+	Raw Packet:	03 00 00 00 00 00 00 10 00 04 17 5f 70 6e 67 a4 
+	Revision: 	3
+	MAC address: 	00:00:00:00:00:00
+	Method: 	GET
+	Direction: 	Downstream
+	RPC Namespace Index: 	0
+	Data Size: 	4
+	CRC: 		17 
+	D-CRC: 		a4 
+	RPC: 		_png
+	Data: 		
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
